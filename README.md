@@ -78,7 +78,7 @@ python population_distribution.py
 
 The generated bar chart displays India's population distribution by age groups.
 
-![Output](output.png)
+![image_alt](https://github.com/maheshanjankumar05-gif/SCT_DS_01_Population_Distribution/blob/ea0c621986a7cd5bbe2d37b4d62848f382285307/Screenshot%202026-08-01%20220555.png)
 
 ---
 
