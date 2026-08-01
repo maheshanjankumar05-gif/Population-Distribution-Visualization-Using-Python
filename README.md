@@ -1,30 +1,41 @@
 # 📊 Population Distribution Visualization
 
-## 📌 SkillCraft Technology - Data Science Internship
+## SkillCraft Technology – Data Science Internship
 
-### Task 01
+### Task 01: Population Distribution by Age Groups
 
-Create a Bar Chart or Histogram to visualize the distribution of a categorical or continuous variable.
-
----
-
-## 📖 Project Description
-
-This project visualizes India's population distribution by age groups using a bar chart. The chart displays the population (in millions) for three age categories, making it easy to compare the distribution across different age groups.
+This project visualizes India's population distribution across different age groups using a **Bar Chart** created with **Python** and **Matplotlib**.
 
 ---
 
-## 📂 Dataset
+## 📌 Project Objective
 
-Age Groups:
-- 0–20 Years
-- 21–64 Years
-- 65+ Years
+Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable.
 
-Population (Millions):
-- 512
-- 807
-- 98
+In this project, a **bar chart** is used to represent India's population distribution among three age groups.
+
+---
+
+## 📂 Project Structure
+
+```
+SCT_DS_01_Population_Distribution/
+│── population_distribution.py
+│── output.png
+│── README.md
+│── requirements.txt
+│── .gitignore
+```
+
+---
+
+## 📊 Dataset
+
+| Age Group | Population (Millions) |
+|-----------|----------------------:|
+| 0–20 Years | 512 |
+| 21–64 Years | 807 |
+| 65+ Years | 98 |
 
 ---
 
@@ -35,33 +46,27 @@ Population (Millions):
 
 ---
 
-## 📈 Output
+## ▶️ How to Run
 
-The generated bar chart shows the population distribution across age groups.
-
----
-
-## 🚀 How to Run
-
-1. Clone the repository
+### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SCT_DS_01_Population_Distribution.git
+git clone https://github.com/maheshanjankumar05-gif/SCT_DS_01_Population_Distribution.git
 ```
 
-2. Navigate to the project
+### 2. Open the project folder
 
 ```bash
 cd SCT_DS_01_Population_Distribution
 ```
 
-3. Install dependencies
+### 3. Install the required library
 
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Run the program
+### 4. Run the program
 
 ```bash
 python population_distribution.py
@@ -69,30 +74,34 @@ python population_distribution.py
 
 ---
 
-## 📷 Output Screenshot
+## 📈 Output
 
-> Add your generated `output.png` here.
+The generated bar chart displays India's population distribution by age groups.
 
 ![Output](output.png)
 
 ---
 
-## 📚 Learning Outcome
+## 🎯 Learning Outcomes
 
-- Data Visualization
-- Bar Charts
-- Matplotlib
-- Python Programming
-- Data Analysis Basics
+- Data Visualization using Python
+- Creating Bar Charts with Matplotlib
+- Working with Categorical Data
+- Python Programming Basics
+- Git & GitHub Project Management
 
 ---
 
 ## 👨‍💻 Author
 
-Mahesh Anjan Kumar
+**Mahesh Anjan Kumar**
 
-B.Tech CSE
+B.Tech – Computer Science and Engineering
 
 Vignan's Foundation for Science, Technology & Research
 
 GitHub: https://github.com/maheshanjankumar05-gif
+
+---
+
+## ⭐ If you found this project useful, consider giving it a star!
