@@ -82,6 +82,14 @@ The generated bar chart displays India's population distribution by age groups.
 
 ---
 
+## 🎥 Project Demonstration
+
+A screen recording demonstrating the execution of the Population Distribution Visualization project using Python and Matplotlib.
+
+▶️ **[Watch the Project Demonstration](https://github.com/user-attachments/assets/3004ccf8-0056-4068-bf21-5fe57a0c051b)**
+
+---
+
 ## 🎯 Learning Outcomes
 
 - Data Visualization using Python
