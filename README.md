@@ -1,10 +1,6 @@
 # 📊 Population Distribution Visualization
 
-## SkillCraft Technology – Data Science Internship
-
-### Task 01: Population Distribution by Age Groups
-
-This project visualizes India's population distribution across different age groups using a **Bar Chart** created with **Python** and **Matplotlib**.
+A data visualization project that analyzes and presents India's population distribution across different age groups using Python and Matplotlib.
 
 ---
 
